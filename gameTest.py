@@ -70,3 +70,5 @@ def scores():
 
 if __name__ == '__main__':
     start()
+
+close = input()
