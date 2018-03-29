@@ -41,7 +41,7 @@ def result(player, computer):
     print ("1..")
     time.sleep(1)
     print ("2..")
-    time.sleep(2)
+    time.sleep(1)
     print ("3!")
     time.sleep(0.5)
     print ("Computer threw {0}!".format(names[computer]))
